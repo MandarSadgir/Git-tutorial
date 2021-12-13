@@ -4,5 +4,6 @@ class Welcome
 	{
 		system.out.println("welcome");
                 system.out.println("welcome again");
+		system.out.println("ABD");
 	}
 }
